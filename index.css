@@ -1,0 +1,39 @@
+.anuncio {
+        background-color: #000;
+        color: #fff;
+        text-align: center;
+        font-size: 13px;
+        padding: 8px 0;
+    }
+.logo img {
+    height: 120px;
+    width: auto;
+}
+nav ul {
+        display: flex;
+        list-style: none;
+        gap: 30px;
+}
+
+nav a {
+        text-decoration: none;
+        color: #222;
+        font-size: 20px;
+        font-weight: 600;
+        text-transform: uppercase;
+}
+header {
+    display: flex;
+    align-items: center;
+    border-bottom: 1px solid #eee;
+    padding: 15px 40px;
+
+}
+
+nav {
+    margin: 0 auto;
+}
+html, body {
+    margin: 0;
+    padding: 0;
+}
